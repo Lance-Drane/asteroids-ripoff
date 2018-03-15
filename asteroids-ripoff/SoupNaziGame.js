@@ -1,7 +1,3 @@
-/**
- * 
- */
-
 //////////////////////////////NOTE://///////////////////////
 //At present, I am trying to figure out how to have actual images drawn on the canvas without changing too many functions (in particular the function which handles ALL collisions).
 //Functionality is otherwise complete, and placeholder rectangles are currently implemented for the player/enemies/collectibles.
